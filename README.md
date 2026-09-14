@@ -502,6 +502,7 @@ __________                 ___________           .__           .____    .__     
 - [TRM Labs](https://trmlabs.com)
 - [Halborn Forensic](https://halborn.com)
 - [Visual List](https://www.lopp.net/bitcoin-information/visualizations.html)
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 8 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ## Support Me:
 
